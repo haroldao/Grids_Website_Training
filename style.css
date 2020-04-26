@@ -179,5 +179,14 @@ footer img {
 /* MEDIA QUERIES  */
 /* First Breakpoint at 600px  */
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
+  body {
+    /* background-color: green; */
+    font-size: 60%;
+  }
+
+  .quotes div {
+    float: none;
+    width: auto;
+  }
 }
