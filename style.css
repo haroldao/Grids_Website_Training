@@ -53,3 +53,12 @@ header nav a {
   font-weight: 700;
   margin-left: 12px;
 }
+
+/* HERO SECTION */
+
+.hero {
+  background-image: url(/assets/hero.jpg);
+  background-size: cover;
+  background-position: right center;
+  height: 100vh;
+}
