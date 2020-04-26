@@ -38,6 +38,9 @@ body {
 header {
   padding: 10px 16px;
   overflow: hidden;
+  position: fixed;
+  width: 100%;
+  background-color: white;
 }
 header h1 {
   float: left;
