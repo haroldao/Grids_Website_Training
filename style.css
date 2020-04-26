@@ -155,3 +155,21 @@ header nav a {
   min-width: 10%;
   margin-right: 15px;
 }
+
+/* FOOTER */
+footer {
+  background-color: #47353a;
+  color: white;
+  padding: 25px 30px;
+  overflow: hidden;
+  text-align: right;
+  vertical-align: middle;
+}
+
+footer p {
+  vertical-align: middle;
+  font-size: 1.4em;
+}
+footer img {
+  float: left;
+}
