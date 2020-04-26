@@ -215,6 +215,10 @@ footer img {
     margin-right: 22px;
   }
 
+  header nav a:last-child {
+    margin-right: 0;
+  }
+
   .flowers img {
     float: none;
     width: auto;
