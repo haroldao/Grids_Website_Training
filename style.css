@@ -106,3 +106,8 @@ header nav a {
   float: left;
   width: 33.333%;
 }
+
+.chair {
+  background-image: url(/assets/full-bleed.jpg);
+  background-position: center center;
+}
