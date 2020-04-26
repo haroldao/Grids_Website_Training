@@ -77,6 +77,16 @@ header nav a {
   text-align: center;
 }
 
+/* .hero::after {
+  z-index: 99;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: black;
+  background-color: black;
+} */
+
 .hero h2 {
   font-family: David Libre;
   font-size: 2.6rem;
@@ -87,4 +97,12 @@ header nav a {
 
 .hero p {
   max-width: 400px;
+}
+
+.flowers {
+  overflow: hidden;
+}
+.flowers img {
+  float: left;
+  width: 33.333%;
 }
