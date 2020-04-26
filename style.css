@@ -26,8 +26,8 @@ a {
 
 body {
   font-family: Roboto;
-  /* font-size: 62.5%; */
-  font-size: 16px;
+  font-size: 62.5%;
+  /* font-size: 16px; */
   line-height: 1.5;
   color: var(--brown);
 }
@@ -44,7 +44,7 @@ header h1 {
 
 header nav {
   float: right;
-  margin-top: 4px;
+  margin-top: 8px;
 }
 
 header nav a {
@@ -61,4 +61,30 @@ header nav a {
   background-size: cover;
   background-position: right center;
   height: 100vh;
+  /* padding-top: 200px; */
+}
+
+.hero div {
+  position: absolute;
+  /* padding: 0 20px; */
+  max-width: 1440px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.225em;
+  text-align: center;
+}
+
+.hero h2 {
+  font-family: David Libre;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0 0 20px;
+}
+
+.hero p {
+  max-width: 400px;
 }
