@@ -219,4 +219,13 @@ footer img {
     float: none;
     width: auto;
   }
+
+  .logos img {
+    display: block;
+    margin: 0 auto;
+    padding-top: 20px;
+  }
+  .logos img:last-child {
+    margin-right: auto;
+  }
 }
