@@ -175,3 +175,9 @@ footer p {
 footer img {
   float: left;
 }
+
+/* MEDIA QUERIES  */
+/* First Breakpoint at 600px  */
+
+@media (max-width: 500px) {
+}
