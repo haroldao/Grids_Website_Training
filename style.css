@@ -201,3 +201,14 @@ footer img {
     width: auto;
   }
 }
+
+@media (max-width: 430px) {
+  h1,
+  nav {
+    float: none !important;
+  }
+  header nav a {
+    margin-left: 0 !important;
+    margin-right: 22px;
+  }
+}
