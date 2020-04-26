@@ -207,8 +207,11 @@ footer img {
   nav {
     float: none !important;
   }
+  header {
+    text-align: center;
+  }
   header nav a {
-    margin-left: 0 !important;
+    margin-left: 0;
     margin-right: 22px;
   }
 }
