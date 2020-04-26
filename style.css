@@ -214,4 +214,9 @@ footer img {
     margin-left: 0;
     margin-right: 22px;
   }
+
+  .flowers img {
+    float: none;
+    width: auto;
+  }
 }
