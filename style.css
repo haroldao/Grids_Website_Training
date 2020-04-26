@@ -222,7 +222,9 @@ footer img {
   header nav a:last-child {
     margin-right: 0;
   }
-
+  .hero h2 {
+    font-size: 190%;
+  }
   .flowers img {
     float: none;
     width: auto;
