@@ -142,6 +142,7 @@ header nav a {
   padding: 0;
 }
 
+/* LOGO */
 .logos {
   background-color: var(--creme);
   text-align: center;
@@ -155,6 +156,10 @@ header nav a {
   margin-top: 20px;
   min-width: 10%;
   margin-right: 15px;
+}
+
+.logos img:last-child {
+  margin-right: 0;
 }
 
 /* FOOTER */
